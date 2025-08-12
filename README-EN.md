@@ -9,8 +9,6 @@ The goal of this report is to provide a consolidated view of key budget indicato
 
 ## 🧩 About the Data
 
-> ⚠️ Due to confidentiality reasons, the original data used in this project is not available for review or sharing.
-
 The Excel dataset used in this dashboard was generated through a complete ETL (Extract, Transform, Load) process, including:
 
 - Extraction of raw data via SAP, from different modules and operational reports;  
