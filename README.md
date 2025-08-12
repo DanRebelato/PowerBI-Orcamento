@@ -31,13 +31,11 @@ Embora os arquivos intermediários e originais não estejam neste repositório, 
 
 ## 📸 Capturas de Tela
 
-*Adicione aqui prints do seu dashboard com boa resolução. Exemplo:*
-
-![Dashboard Principal](imagens/dashboard_principal.png)
+![Dashboard Principal](https://github.com/DanRebelato/PowerBI-Orcamento/blob/main/Documentacao/Orcamento_2023.png)
 
 ## 📁 Estrutura dos Dados
 
-- `Simulado 2023.xlsx`: dados simulados de atendimentos por segmento;
+- [Orcamento 2023(.xlsx)](https://github.com/DanRebelato/PowerBI-Orcamento/raw/refs/heads/main/Documentacao/Base%20Or%C3%A7amento.xlsx)
 
 ## 💡 Principais Insights
 
@@ -52,6 +50,6 @@ Embora os arquivos intermediários e originais não estejam neste repositório, 
 
 ## 📬 Contato
 
-- [Seu nome / GitHub profile]  
-- Email: dnl.rebelato@exemplo.com  
-- LinkedIn: linkedin.com/in/seuperfil  
+- Danilo Rebelato 
+- Email: dnl.rebelato@yahoo.com
+- LinkedIn: www.linkedin.com/in/danilorebelato 
