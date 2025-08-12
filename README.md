@@ -1,4 +1,4 @@
-[Read in English]
+[Read in English](https://github.com/DanRebelato/PowerBI-Orcamento/blob/main/README-EN.md)
 
 # 📊 Relatório de controle orçamentário e financeiro - Power BI
 
